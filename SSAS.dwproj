@@ -62,15 +62,15 @@
       <Options>
         <ConnectionMappings>
           <ConfigurationSetting>
-            <Id>Projects DW</Id>
-            <Name>Projects DW</Name>
-            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=DCNOTE142;Integrated Security=SSPI;Initial Catalog=ClinicDW</Value>
+            <Id>Clinic DW</Id>
+            <Name>Clinic DW</Name>
+            <Value xsi:type="xsd:string">Provider=MSOLEDBSQL.1;Data Source=DCNOTE142;Integrated Security=SSPI;Initial Catalog=ClinicDW</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
           <ConfigurationSetting>
-            <Id>Projects DW</Id>
-            <Name>Projects DW</Name>
+            <Id>Clinic DW</Id>
+            <Name>Clinic DW</Name>
             <Value xsi:type="xsd:int">0</Value>
           </ConfigurationSetting>
         </ConnectionSecurityMappings>

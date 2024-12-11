@@ -1,4 +1,4 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="209d5aa5-5acd-4515-921e-de1dac8deab5" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="9eb0620b-4a4a-4b4a-bf0c-aeda9263da09" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Dim Patient</ID>
   <Name>Dim Patient</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3369" scrolltop="-5599" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="9779" y="14224" backcolor="2039583" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2205" scrolltop="-5599" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7451" y="14224" backcolor="2039583" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Dim_Patient" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Dim_Patient" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="3027" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000d30b0000" />
             </control>
@@ -47,7 +47,7 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
-      <Value>-3369</Value>
+      <Value>-2205</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
@@ -68,59 +68,50 @@
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="6da0e13b-1b8d-44bb-a8c4-ef0f66e55d28">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="367d2685-2658-4726-b814-f6db79a560a5">
     <DataSourceViewID>Clinic DW</DataSourceViewID>
   </Source>
-  <ErrorConfiguration dwd:design-time-name="2d7e5d21-11f8-4572-aac1-df68243f5008">
+  <ErrorConfiguration dwd:design-time-name="65eb649c-b2ae-43ac-83f2-e6b430c2c161">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="ea294a5a-9cd0-4421-8788-d83045d65c73">
+    <Attribute dwd:design-time-name="843ca787-e166-4429-b716-e5c1acea8872">
       <ID>Id</ID>
       <Name>Id</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="741f60b7-49fd-43be-b9b0-74c897ee9317">
+        <KeyColumn dwd:design-time-name="8dd0b692-8f8a-4fd6-9d42-ffa36971734f">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="96a73f3a-9797-4c73-988d-c635d3e22a8b">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="cdc0b7d4-2912-44db-834b-a6009bcd7ec3">
             <TableID>dbo_Dim_Patient</TableID>
             <ColumnID>Id</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="decc25b1-30ed-4ebe-9df3-304807793808">
+        <AttributeRelationship dwd:design-time-name="43bbb005-5609-464c-9ec1-2024721daf19">
           <AttributeID>First Name</AttributeID>
           <Name>First Name</Name>
         </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="34fef8be-b4fb-418a-be02-05baa21b797a">
+        <AttributeRelationship dwd:design-time-name="89f68816-726d-41a3-b0d3-24eb3653234b">
           <AttributeID>Last Name</AttributeID>
           <Name>Last Name</Name>
-        </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="5e50da49-7c84-4392-8235-4f152a940492">
-          <AttributeID>Address</AttributeID>
-          <Name>Address</Name>
-        </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="366bbeb8-863e-47a9-827a-b042020becad">
-          <AttributeID>Age</AttributeID>
-          <Name>Age</Name>
         </AttributeRelationship>
       </AttributeRelationships>
       <OrderBy>Key</OrderBy>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="0359d739-189e-407e-ae8a-a9c709a67058">
+    <Attribute dwd:design-time-name="db4c91d2-f4a6-43d6-a05f-8a0be68c40fd">
       <ID>First Name</ID>
       <Name>First Name</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="2f20ba66-d37a-4d84-8feb-800bc468710e">
+        <KeyColumn dwd:design-time-name="1f0a292f-5fce-4b4d-8d68-6525ab2b5347">
           <DataType>WChar</DataType>
-          <DataSize>1024</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="e1d7015b-0a86-4ec6-aa41-210d3472d273">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="5131cff3-ed27-4c3e-8b94-7d275dfc3780">
             <TableID>dbo_Dim_Patient</TableID>
             <ColumnID>FirstName</ColumnID>
           </Source>
@@ -129,47 +120,15 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="f8f3e32b-e78e-4a16-9a76-034be8c65bf8">
+    <Attribute dwd:design-time-name="3dbc22d8-d6b8-418a-803a-955f1ada83d1">
       <ID>Last Name</ID>
       <Name>Last Name</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="c383d30b-2ff8-4531-9b23-b5c7da3fbe88">
+        <KeyColumn dwd:design-time-name="5d4fefb7-202a-406b-aec0-293f908f8a16">
           <DataType>WChar</DataType>
-          <DataSize>1024</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="b8eeca9d-479a-464a-b4f6-cefbde433fa2">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="8bc414af-93c3-40ca-9d28-33ae3ab5ecf0">
             <TableID>dbo_Dim_Patient</TableID>
             <ColumnID>LastName</ColumnID>
-          </Source>
-        </KeyColumn>
-      </KeyColumns>
-      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
-      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
-    </Attribute>
-    <Attribute dwd:design-time-name="464eb1ed-ad99-47e5-875d-04786c05a347">
-      <ID>Address</ID>
-      <Name>Address</Name>
-      <KeyColumns>
-        <KeyColumn dwd:design-time-name="90685afe-dbfa-4a02-a636-38609def9fe6">
-          <DataType>WChar</DataType>
-          <DataSize>1024</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="c943afb7-9755-4e98-933d-0085e1fa26ed">
-            <TableID>dbo_Dim_Patient</TableID>
-            <ColumnID>Address</ColumnID>
-          </Source>
-        </KeyColumn>
-      </KeyColumns>
-      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
-      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
-    </Attribute>
-    <Attribute dwd:design-time-name="adb0ba01-6e35-45b4-9f9a-93f9e02a8825">
-      <ID>Age</ID>
-      <Name>Age</Name>
-      <KeyColumns>
-        <KeyColumn dwd:design-time-name="72963e1b-30c0-4dfc-8122-a6b78c5ac9a4">
-          <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="52359d8c-fa6f-4394-85d9-3f3119556664">
-            <TableID>dbo_Dim_Patient</TableID>
-            <ColumnID>Age</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
